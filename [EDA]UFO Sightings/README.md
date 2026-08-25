@@ -1,5 +1,3 @@
-<font size="6" color=35483A><span style='font-family:Bell MT'>FreedomWings Presents:</font>
-
 # <font size="10" color=#952816><center><span style='font-family:Bell MT'>UFO Sightings Exploratory Data Analysis</center></font>  
 
 
