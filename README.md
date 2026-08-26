@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/warsab/warsab/blob/main/Portfolio%20logo.png?raw=true" alt="Warrick Sabatta" width="440"/>
-
 # 📊 Projects
 
 ### *Exploratory data analysis, end to end.*
